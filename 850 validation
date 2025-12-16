@@ -1,0 +1,3 @@
+IF BEG missing → Reject
+IF PO1 quantity = 0 → Error
+IF duplicate PO number → Error
